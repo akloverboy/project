@@ -11,7 +11,7 @@ We are now live as [official institute website](http://iiitvadodara.ac.in/).
 #### Navigation Scheme
 * Institute
     * About
-    * Director's Message
+    * Director Message
     * Board of Governors
     * Society Members
     * Academic Council
